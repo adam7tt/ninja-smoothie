@@ -1,6 +1,6 @@
 <template>
   <div class="navbar">
-    <nav class="nav-extended indigo darken-2">
+    <nav class="nav-extended green darken-2">
       <div class="nav-content">
         <router-link :to="{ name: 'home' }">
           <span class="nav-title">Ninja Smoothies </span>
